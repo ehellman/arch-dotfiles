@@ -1,0 +1,6 @@
+clipse
+google-chrome
+libva-nvidia-driver-git
+oh-my-zsh-git
+yay
+yay-debug
